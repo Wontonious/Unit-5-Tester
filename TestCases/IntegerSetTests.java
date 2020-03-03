@@ -25,6 +25,8 @@ public class IntegerSetTests {
     }
     @Test
     public void insertAlreadyThere(){
+        //insert the number
+        testSet.insert(3);
         //check number is already in the set
         assertEquals(testSet.size(),1);
     }
@@ -37,7 +39,8 @@ public class IntegerSetTests {
 
     @Test
     public void removeAlreadyThere(){
-
+        //insert the number in the set
+        testSet.insert(3);
         //check number is in the set
         assertEquals(testSet.size(), 1);
         //remove the number

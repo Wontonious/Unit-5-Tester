@@ -41,36 +41,38 @@
     <session id="-938192027">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1028" />
+          <entry key="java" value="1282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1028" />
+          <entry key="JAVA" value="1282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
+          <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IntegerSetUsage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IntegerSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="357">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="e#102#103#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -92,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCases/IntegerSetTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="433">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,8 +124,9 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Integer Set.java" />
         <option value="$PROJECT_DIR$/src/IntegerSetUsage.java" />
-        <option value="$PROJECT_DIR$/src/IntegerSet.java" />
         <option value="$PROJECT_DIR$/TestCases/IntegerSetTests.java" />
+        <option value="$PROJECT_DIR$/src/IntegerSet.java" />
+        <option value="$PROJECT_DIR$/src/Hi.java" />
       </list>
     </option>
   </component>
@@ -133,10 +136,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="143" />
-    <option name="y" value="-26" />
-    <option name="width" value="789" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,8 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -176,8 +179,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582066353238" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583272265896" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovieTheatre" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -195,7 +198,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntegerSetTests.removeAlreadyThere">
+  <component name="RunManager" selected="JUnit.IntegerSetTests">
+    <configuration name="" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IntegerSetUsage" />
+      <module name="Unit 5 Tester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="IntegerSetUsage" />
       <module name="Unit 5 Tester" />
@@ -234,6 +244,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application." />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.IntegerSetTests.removeAlreadyThere" />
       <item itemvalue="JUnit.IntegerSetTests" />
@@ -241,9 +252,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntegerSetTests" />
         <item itemvalue="JUnit.IntegerSetTests.removeAlreadyThere" />
         <item itemvalue="JUnit.IntegerSetTests.insertAlreadyThere" />
-        <item itemvalue="JUnit.IntegerSetTests" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -260,23 +271,12 @@
       <updated>1581372090337</updated>
       <workItem from="1581372094702" duration="2663000" />
       <workItem from="1582062496989" duration="2423000" />
-      <workItem from="1582065878371" duration="833000" />
+      <workItem from="1582065878371" duration="1074000" />
+      <workItem from="1582235193530" duration="2462000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegerSetTests - 2020.02.18 at 14h 17m 20s.xml">
-      <configuration name="IntegerSetTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntegerSetTests_insertAlreadyThere - 2020.02.18 at 14h 17m 53s.xml">
-      <configuration name="IntegerSetTests.insertAlreadyThere" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntegerSetTests - 2020.02.18 at 14h 19m 11s.xml">
-      <configuration name="IntegerSetTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntegerSetTests - 2020.02.18 at 14h 20m 40s.xml">
-      <configuration name="IntegerSetTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IntegerSetTests_insertAlreadyThere - 2020.02.18 at 14h 46m 10s.xml">
       <configuration name="IntegerSetTests.insertAlreadyThere" configurationId="JUnit" />
     </history-entry>
@@ -295,14 +295,27 @@
     <history-entry file="IntegerSetTests_removeAlreadyThere - 2020.02.18 at 14h 52m 36s.xml">
       <configuration name="IntegerSetTests.removeAlreadyThere" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IntegerSetTests - 2020.02.20 at 13h 46m 46s.xml">
+      <configuration name="IntegerSetTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerSetTests - 2020.02.20 at 14h 01m 13s.xml">
+      <configuration name="IntegerSetTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerSetTests - 2020.02.20 at 14h 01m 33s.xml">
+      <configuration name="IntegerSetTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerSetTests - 2020.02.20 at 14h 07m 15s.xml">
+      <configuration name="IntegerSetTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5919000" />
+    <option name="totallyTimeSpent" value="8622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,17 +382,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/IntegerSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -387,20 +389,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntegerSetUsage.java">
+    <entry file="file://$PROJECT_DIR$/src/Hi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/IntegerSetTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="433">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntegerSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntegerSetUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
